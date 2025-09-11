@@ -1,1 +1,1 @@
-# Black-Scholes-Model
+# Financial-Modeling
