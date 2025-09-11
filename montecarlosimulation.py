@@ -15,7 +15,7 @@ import seaborn as sns
 
 """This model will be using an assumption of a normal distribution and Gordon Growth
 
-This is my first attempt at building a Monte Carlo simulation, adn because of that, all these numebrs are hypothetical, I am going to create an applicable one soon
+This is my first attempt at building a Monte Carlo simulation, and because of that, all these numbers are hypothetical, I am going to create an applicable one soon
 """
 
 d0 = 100
