@@ -136,7 +136,7 @@ print(f"Intrinsic Value Per Share: ${intrinsic_value_per_share:,.2f}")
 
 This is obviously not the most professional DCF of all time, but I did learn a lot from doing it. Throughout all the projections I pulled from different analysts, its incredibly interesting how estimates can substantially change the final estimations per share.
 
-Without changing my future cash flow projections for Amazon, I used both extremes of WACC estimates. Using the minimum range of the WACC (8,2%), I got a final intrinsic value per share of $301.19, an extremely different value than the current $228.15 the stock currently sits at. On the other hand, the high end WACC estimation of 10.6% gives me a final intrinsic value per share of $215.40, a value much closer to the true $228.15 we are currently at.
+Without changing my future cash flow projections for Amazon, I used both extremes of WACC estimates. Using the minimum range of the WACC (8,2%), I got a final intrinsic value per share of 301.19 USD, an extremely different value than the current 228.15 USD the stock currently sits at. On the other hand, the high end WACC estimation of 10.6% gives me a final intrinsic value per share of 215.40 USD, a value much closer to the true 228.15 USD we are currently at.
 
 This is obviously not the most professional DCF of all time, but I did learn a lot from doing it. Throughout all the projections I pulled from different analysts, it's incredibly interesting how estimates can substantially change the final estimations per share.
 
